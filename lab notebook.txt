@@ -5,7 +5,7 @@ Date	Who	Start	Stop	Interruptions	Question				TimeOnTask	Comments
 08/31	KM	15:06	15:55	30		Preparing Laptop - 5			19  		Download and install Racket
 09/04	KM	16:50	17:03	0		Preparing Laptop - 6			13		Sign up for github
 09/02	KM	12:00	12:04	0		Preparing Laptop - 4			4		Make sure your wireless is working
-	KM					Preparing Laptop - 3					Sign up for CS 5010 on piazza.com(couldn't 													finish, as ccs account password forgotten and 													new password will be set on monday 9/08 and a 													code is sent on the email to activate piazza 													account)
+	KM					Preparing Laptop - 3					Sign up for CS 5010 on piazza.com(couldn't finish, as ccs account password forgotten and new password will be set on monday 9/08 and a code is sent on the email to activate piazza account)
 
 							Total Time: 51
 
@@ -20,5 +20,5 @@ Date	Who	Start	Stop	Interruptions	Question				TimeOnTask	Comments
 09/06	KM	14:21	14:31	0		Introduction to Racket - Ex 9		10		Execution of Ex.9(Part 1 and 3)
 09/07	KM	17:05	17:13	0		Introduction to Racket - Ex 4		8		Made changes to the execution of Ex.4
 09/07	KM	16:38	17:00	5		Introduction to Racket - Ex 10		17		Execution of Ex.10
-09/07	KM	17:01	18:17	0		Introduction to Racket - Ex 9		66		Execution of Ex.9(Part 2- incomplete! Couldn't 													understand the difference)
+09/07	KM	17:01	18:17	0		Introduction to Racket - Ex 9		66		Execution of Ex.9(Part 2- incomplete! Couldn't understand the difference)
 							Total Time: 168
